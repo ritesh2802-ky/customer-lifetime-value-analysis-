@@ -1,0 +1,8 @@
+Segment,Customers,Historical_Revenue,Avg_CLV_6M,Total_Predicted_CLV_6M,Avg_Prob_Alive,Revenue_%
+Champions,962,5809341.1,2787.5,2678747.5,1.0,65.2
+Loyal Customers,998,1474127.6,1230.2,1201869.4,1.0,16.5
+At Risk,643,800531.6,638.3,395088.8,0.9,9.0
+New Customers,319,146166.6,1082.6,82281.1,0.9,1.6
+Needs Attention,489,392341.6,579.8,48121.4,0.8,4.4
+Potential Loyalists,103,99128.7,1104.9,44195.8,0.9,1.1
+Lost,824,189770.9,162.3,5517.0,0.7,2.1
