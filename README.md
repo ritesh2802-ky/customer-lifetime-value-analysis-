@@ -81,7 +81,7 @@ Translated analytical outputs into segment-level marketing strategies with speci
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/ritesh2802-ky/customer-lifetime-value-analysis.git
+   git clone https://github.com/ritesh2802-ky/customer-lifetime-value-analysis-
    cd customer-lifetime-value-analysis
    ```
 
